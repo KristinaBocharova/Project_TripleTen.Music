@@ -21,7 +21,7 @@ This project analyzes the music preferences of residents in two cities — Sprin
 - Python (pandas)  
 - Exploratory Data Analysis (EDA)  
 
-## **Key Findings:**  
+## Key Findings  
 ✅ **The first hypothesis is confirmed.**  
-⚠️ **The second hypothesis is partially rejected** due to the high similarity between the cities.
-❌ **The third hypothesis is rejected.** 
+⚠️ **The second hypothesis is partially rejected** due to the high similarity between the cities.  
+❌ **The third hypothesis is rejected.**  
